@@ -23,7 +23,7 @@ section
 .half-width img
 {
     width: 65%;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 .hmbtn
 {
@@ -38,4 +38,5 @@ section
 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin: none;
 }
